@@ -3,4 +3,5 @@ HTML Images----
 <img src="pic_trulli.jpg" alt="Italian Trulli">
 <h1> Title </h1>
 <h2> Body </h2>
+<div> enter your details </div>
 ------
